@@ -18,7 +18,7 @@ export default async function handler(req, res) {
 
     const mailOptions = {
       from: email,
-      to: "mhamedkbt@gmail.com", // your inbox
+      to: "bookdari.conciergerie@gmail.com", // your inbox
       subject: subject || "Contact Form Message",
           html: `
     <div style="font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
