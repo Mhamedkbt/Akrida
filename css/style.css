@@ -6288,7 +6288,7 @@ button.bg-dark:focus {
 }
 
 .bg-white {
-  background-color: #060E25 !important ;
+  background-color: #1A1817 !important ;
 }
 .bg-services {
   background-color: #FFF9EE !important;
@@ -9387,7 +9387,7 @@ button.bg-dark:focus {
 }
 .text-title {
   font-family: 'cinzel', serif;
-  letter-spacing: 1.5px !important;
+  letter-spacing: 4px !important;
   font-weight: 500 !important;
   color: #BB9C5A;
 }
